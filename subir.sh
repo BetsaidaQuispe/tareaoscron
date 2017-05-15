@@ -1,15 +1,13 @@
 #!/bin/sh
-cd /home/betzi/Tarea
+cd /home/betzi/CronProcess
 
 git add .
-git commit -a -m "mis comits"
+git commit -a -m "mis commits"
 git push -u origin master 
 
-echo "otro listo "
+echo "primer commit de prueba  con el proceso cron -- lunes "
 
-echo "lio"
 
-echo "i"
 
 
 
