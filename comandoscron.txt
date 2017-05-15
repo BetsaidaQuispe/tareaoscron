@@ -1,0 +1,3 @@
+0 20 * * 1-4 /home/betzi/CronProcess/subir.sh
+30 17 * * 5 /home/betzi/CronProcess/subir.sh
+
